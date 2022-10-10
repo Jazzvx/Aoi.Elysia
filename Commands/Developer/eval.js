@@ -5,5 +5,5 @@ module.exports = ({
   $color[YELLOW]
   $argsCheck[>1;I can't eval a code if you don't provide said code]
   
-  $onlyForIDs[$botownerid;Only My Developer Smj Use This]`
+  $onlyForIDs[$botOwnerID;Only For My Developer]`
 })
