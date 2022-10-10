@@ -3,7 +3,7 @@ const Aoijs = require("aoi.js");
 const express = require("express");
 require('dotenv').config();
 const bot = new Aoijs.Bot({
-  token: process.env.TOKEN,
+  token: "MTAyNDcxNjQ2NTc2NjY2MjE0NA.GR3vDW.Ed9iq05BviK8KM4-6qsAobwbV8UbaMhx4BS7T4",
   prefix: '$getServerVar[prefix]',
   suppressAl: true,
   connectedBots: true,
